@@ -1,1 +1,1 @@
-# Lambdas-streams
+# JavaScript
